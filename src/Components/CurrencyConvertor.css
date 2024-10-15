@@ -1,0 +1,50 @@
+.main {
+  width: 500px;
+  margin: auto;
+  padding: 20px 40px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  background-color: rgba(215, 211, 211, 0.879);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 180px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 2px solid #333;
+  border-radius: 0.3em;
+  transition: border-color 0.3s;
+}
+
+.input:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.select {
+  width: 100px;
+  margin-left: 15px;
+  padding: 10px;
+  border: 2px solid #333;
+  border-radius: 0.3em;
+  transition: border-color 0.3s;
+}
+
+.select:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.equal {
+  font-weight: bold;
+  text-align: center;
+  margin: 15px 0;
+}
