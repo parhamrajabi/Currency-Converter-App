@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Currency-Converter-App/static/css/main.0d2d7edb.css",
+    "main.js": "/Currency-Converter-App/static/js/main.568dc63d.js",
+    "static/js/453.641551e0.chunk.js": "/Currency-Converter-App/static/js/453.641551e0.chunk.js",
+    "static/media/grands-emergents-contestent-dollar-cadre-transactions-internationales-photo-dillustration_0.jpg": "/Currency-Converter-App/static/media/grands-emergents-contestent-dollar-cadre-transactions-internationales-photo-dillustration_0.a2e297b0481cd3a6ddd7.jpg",
+    "index.html": "/Currency-Converter-App/index.html",
+    "main.0d2d7edb.css.map": "/Currency-Converter-App/static/css/main.0d2d7edb.css.map",
+    "main.568dc63d.js.map": "/Currency-Converter-App/static/js/main.568dc63d.js.map",
+    "453.641551e0.chunk.js.map": "/Currency-Converter-App/static/js/453.641551e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d2d7edb.css",
+    "static/js/main.568dc63d.js"
+  ]
+}
